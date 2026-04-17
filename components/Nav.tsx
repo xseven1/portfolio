@@ -17,7 +17,7 @@ export default function Nav() {
     <header className="sticky top-0 z-50 bg-paper border-b border-subtle">
       <div className="max-w-5xl mx-auto px-6 h-14 flex items-center justify-between">
         <Link href="/" className="font-display text-sm font-medium tracking-wide text-ink">
-          US<span className="text-accent">.</span>
+          UG<span className="text-accent">.</span>
         </Link>
         <nav className="flex items-center gap-8">
           {links.map(({ href, label }) => (

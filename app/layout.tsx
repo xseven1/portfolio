@@ -21,8 +21,8 @@ export default function RootLayout({
           <div className="max-w-5xl mx-auto px-6 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
             <span className="overline">Udayan Gaikwad · MS ADS · Syracuse University · 2026</span>
             <div className="flex gap-6">
-              <a href="https://github.com/udayangaikwad" className="overline hover:text-ink transition-colors">GitHub</a>
-              <a href="https://linkedin.com/in/udayangaikwad" className="overline hover:text-ink transition-colors">LinkedIn</a>
+              <a href="https://github.com/xseven1" className="overline hover:text-ink transition-colors">GitHub</a>
+              <a href="https://linkedin.com/in/udayan-gaikwad" className="overline hover:text-ink transition-colors">LinkedIn</a>
             </div>
           </div>
         </footer>
