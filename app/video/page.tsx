@@ -2,7 +2,7 @@ import FadeIn from '@/components/FadeIn'
 
 export default function VideoPage() {
   // Replace this URL with your actual Loom embed URL
-  const LOOM_EMBED_URL = 'https://www.loom.com/embed/YOUR_LOOM_ID_HERE'
+  const LOOM_EMBED_URL = 'https://www.loom.com/share/3f2435ec221c4f77b4724d7d8387a6bf'
 
   return (
     <div className="max-w-5xl mx-auto px-6 py-16">
