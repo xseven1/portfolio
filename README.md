@@ -1,4 +1,4 @@
-# Udayan Sharma — MS ADS ePortfolio
+# Udayan Gaikwad — MS ADS ePortfolio
 
 A clean, editorial Next.js portfolio built for the Syracuse University iSchool MS Applied Data Science program.
 
